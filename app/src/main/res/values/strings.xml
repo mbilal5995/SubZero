@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SubZero</string>
+    <string name="Password">Enter Password</string>
+    <string name="Email">Enter Email</string>
+    <string name="username">Enter UserName</string>
+    <string name="LoginText"><u>Already have an account?Login</u></string>
+    <string name="forgetText"><u>Forgot Password?</u></string>
+</resources>
