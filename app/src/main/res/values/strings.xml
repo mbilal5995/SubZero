@@ -5,4 +5,7 @@
     <string name="username">Enter UserName</string>
     <string name="LoginText"><u>Already have an account?Login</u></string>
     <string name="forgetText"><u>Forgot Password?</u></string>
+    <string name="RePassword">Re-Type Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="back_to_login">Back to Login</string>
 </resources>
