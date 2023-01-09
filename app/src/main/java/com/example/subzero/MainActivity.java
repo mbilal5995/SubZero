@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.os.Handler;
 import android.view.WindowManager;
 
+
 public class MainActivity extends AppCompatActivity {
 
     @Override
@@ -26,4 +27,4 @@ public class MainActivity extends AppCompatActivity {
         },2000);
 
     }
-}
+    }
